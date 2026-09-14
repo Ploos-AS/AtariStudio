@@ -1,0 +1,29 @@
+{
+  "format_version": 1,
+  "targets": [
+    {
+      "id": "atari-st",
+      "display_name": "Atari ST",
+      "cpu": "68000",
+      "family": "st"
+    },
+    {
+      "id": "atari-ste",
+      "display_name": "Atari STE",
+      "cpu": "68000",
+      "family": "ste"
+    },
+    {
+      "id": "atari-tt",
+      "display_name": "Atari TT",
+      "cpu": "68030",
+      "family": "tt"
+    },
+    {
+      "id": "atari-falcon",
+      "display_name": "Atari Falcon",
+      "cpu": "68030",
+      "family": "falcon"
+    }
+  ]
+}
